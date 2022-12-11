@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases>
+    <case>
+        <id>1</id>
+        <firstName>Nastya</firstName>
+        <lastName>Ezhkova</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>Yan</firstName>
+        <lastName>Blipov</lastName>
+    </case>
+    <case>
+        <id>3</id>
+        <firstName>User</firstName>
+        <lastName>Name</lastName>
+    </case>
+    <case>
+        <id>4</id>
+        <firstName>FName</firstName>
+        <lastName>LName</lastName>
+    </case>
+    <case>
+        <id>5</id>
+        <firstName>Pola</firstName>
+        <lastName>Esid</lastName>
+    </case>
+    <case>
+        <id>6</id>
+        <firstName>One</firstName>
+        <lastName>More</lastName>
+    </case>
+</cases>
